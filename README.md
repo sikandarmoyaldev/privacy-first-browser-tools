@@ -1,6 +1,6 @@
 # 🛡️ PrivateTools: Privacy-First Browser Utilities
 
-A growing suite of 100% client-side, no-upload web tools designed for developers, creators, and privacy-conscious users. All processing happens locally in your browser using modern web technologies.
+A comprehensive suite of 100% client-side, no-upload web tools designed for developers, creators, and privacy-conscious users. All processing happens locally in your browser using modern web technologies.
 
 **🔗 Live Website:** [https://www.privatetools.in](https://www.privatetools.in)
 
@@ -9,7 +9,7 @@ A growing suite of 100% client-side, no-upload web tools designed for developers
 Most "free" online tools require you to upload your sensitive documents, personal photos, or unreleased creative work to their servers. **PrivateTools is different:**
 
 1. **Zero Uploads:** Files are processed entirely in your browser's memory.
-2. **No Tracking:** We do not use invasive analytics or sell user data.
+2. **Data Sovereignty:** Your files never leave your device. We do not collect, store, or process your data on our servers.
 3. **No Limits:** No artificial file size caps, no watermarks, and no "premium" paywalls.
 4. **Works Offline:** Once loaded, most tools function without an active internet connection.
 
@@ -103,9 +103,9 @@ Most "free" online tools require you to upload your sensitive documents, persona
 - **Local Processing:** WebAssembly (Mediabunny, FFmpeg.wasm, Tesseract.js, etc.), Canvas API, Web Audio API
 - **Styling:** Tailwind CSS, Framer Motion
 
-## 🤝 Contributing & Feedback
+## 📬 Contact & Support
 
-This project is built for the community. If you have a tool idea, find a bug, or want to suggest a privacy-focused feature, please [open an issue](https://github.com/yourusername/privacy-first-browser-tools/issues) or reach out via the [Contact Page](https://www.privatetools.in/contact).
+Have a question, found a bug, or want to suggest a new privacy-focused tool? Reach out to us directly via the [Contact Page](https://www.privatetools.in/contact).
 
 ## 📜 Legal & Information
 
@@ -115,5 +115,5 @@ This project is built for the community. If you have a tool idea, find a bug, or
 - **[Terms of Service](https://www.privatetools.in/legal/terms)**
 - **[Imprint](https://www.privatetools.in/legal/imprint)**
 
-_Built with privacy first. No tracking. No ads. Pure tools._  
+_Built with privacy first. Pure tools._  
 _© 2026 PrivateTools. All rights reserved._
